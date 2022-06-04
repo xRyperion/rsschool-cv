@@ -1,3 +1,3 @@
 # rsschool-cv
 
-2
+(https://github.com/xRyperion/rsschool-cv)
